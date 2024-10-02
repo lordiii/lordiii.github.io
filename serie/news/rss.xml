@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Kreativität trifft Technik e.V. - News</title>
+      <link>https://ktt-ol.github.io</link>
+      <description>Website des Kreativität trifft Technik e.V.</description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://ktt-ol.github.io/serie/news/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
+      <item>
+          <title>Lasercutter lebt wieder</title>
+          <pubDate>Tue, 13 Jul 2021 20:42:00 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://ktt-ol.github.io/blog/2021/laser-death/</link>
+          <guid>https://ktt-ol.github.io/blog/2021/laser-death/</guid>
+          <description xml:base="https://ktt-ol.github.io/blog/2021/laser-death/">&lt;p&gt;&lt;strong&gt;Update:&lt;&#x2F;strong&gt; Es wurde eine neue Röhre beschafft und der Laser ist
+wieder funktionstüchtig!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;del&gt;Moin,&lt;&#x2F;del&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;del&gt;heute ist leider die Röhre unseres Lasercutters gestorben. Ursache war wohl eine Verstopfung im Kühlsystem, welche in
+Verbindung mit einem größeren Laserjob der Röhre den Rest gegeben hat. Bis auf Weiteres kann jedenfalls nicht mehr im
+Space gelasert werden.&lt;&#x2F;del&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;del&gt;Gruß,
+das Lasercutterteam&lt;&#x2F;del&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

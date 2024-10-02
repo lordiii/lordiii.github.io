@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+    <title>Kreativität trifft Technik e.V. - Projekt</title>
+    <subtitle>Website des Kreativität trifft Technik e.V.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/serie/projekt/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-24T23:42:00+00:00</updated>
+    <id>https://ktt-ol.github.io/serie/projekt/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Flying Games Logo</title>
+        <published>2012-11-06T23:42:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            fermate
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/flying-games-logo/"/>
+        <id>https://ktt-ol.github.io/blog/2012/flying-games-logo/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/flying-games-logo/">&lt;p&gt;Seit dem 1.11.12 bin ich Mitglied, und am 3.11. war ich das erste Mal “so
+richtig” im Hackspace, der jetzt den schönen Namen “Mainframe” trägt. Ich kam
+gerade rechtzeitig zu einem Vortrag der Mainframe-Reihe, über Fourier-Analysen:
+war spannend und gut erklärt, und ich konnte meine Mathe-Kenntnisse an einem
+praktischen Beispiel - mit Elektronik-Demo! - auffrischen.&lt;&#x2F;p&gt;
+&lt;p&gt;Danach fing ich mit meinem ersten kleinen Projekt an. Ich wollte das Logo des
+Spiele-Kleinverlags Flying Games aus Styropor ausschneiden, um es dann bei
+Spielevorstellungen an einer langen, dünnen Stange über dem Spieltisch
+“fliegen” lassen zu können. Das Logo hatte ich von Markus, dem Verleger, als
+PDF im Vektorformat bekommen. Im Original sah das so aus:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;flying-games-logo&#x2F;0000.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Das musste ich jetzt in eine SVG-Datei umwandeln, die nur noch einen langen
+Pfad enthält. Zunächst verband ich also die Umrisse des Logos (die beiden
+Flügel mit der Spieleschachtel in der Mitte) und erhielt das hier:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;flying-games-logo&#x2F;0001.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Die Buchstaben “F” und “G” machten mir etwas Kopfzerbrechen, ich beschloss
+schließlich, sie von unten her anzuschneiden und durch die gleiche Öffnung
+wieder zurückzukehren zum Umriss. Damit würde das Logo dann zwei schmale Löcher
+bekommen, aber die könnte ich hinterher vielleicht wieder kleben. Die Vorlage
+sah dann so aus:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;flying-games-logo&#x2F;0002.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Damit ging es dann zum PC, der den Styroschneider steuert. Die SVG-Datei wurde
+dort mit Inkscape geöffnet, und das Plugin sollte sie in GCode umwandeln. Damit
+wird der Schneider angesteuert - ist auch Thema im nächsten Mainframe-Vortrag.&lt;&#x2F;p&gt;
+&lt;p&gt;Zunächst war die generierte Datei aber leer. Ich hatte vergessen, den Pfad auch an einer Stelle zu öffnen, damit der
+Styroschneider einen Anfang hat. Außerdem mag das Plugin wohl keine gruppierten Objekte. Auch mit der Skalierung passte
+es noch nicht ganz (das Modell war viel zu klein), aber das konnte in Inkscape leicht angepasst werden.&lt;&#x2F;p&gt;
+&lt;p&gt;Dann hatten wir gültigen GCode und mussten nur noch den Styroschneider an die richtige Position fahren und ihm sagen, wo
+im Koordinatensystem des Objekts er anfangen sollte. Und los gings! Schließlich war das Logo fertig und sah so aus:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;flying-games-logo&#x2F;0003.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Und mit dem Video vom Schnitt habe ich ein weiteres erstes Mal gewagt: mein erstes Youtube-Video.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=huOZjmjd00w&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Lauflicht</title>
+        <published>2012-07-03T12:15:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            MarvinGS
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/lauflicht/"/>
+        <id>https://ktt-ol.github.io/blog/2012/lauflicht/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/lauflicht/">&lt;p&gt;Manchmal fällt uns ein Projekt auch einfach in den Schoß. So wie dieses
+Lauflicht aus 192 × 14 LEDs. Das Gerät gehört einem Freund des Vereins, der aber
+gerade wenig Zeit und Muße hat, sich der Herausforderung zu stellen, das gute
+Stück zu programmieren und somit wieder nutzbar zu machen. Denn dummer Weise
+fehlt die zur Programmierung notwendige proprietäre Tastatur zu diesem über 30
+Jahre alten Schätzchen. Also hat er es uns in der Hoffnung vorbeigebracht, dass
+sich bei uns jemand finden würde, der Lust auf diese Herausforderung hat.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;lauflicht&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Hardware die nicht funktioniert oder von der niemand weiß wie sie funktioniert
+und dann auch noch mit blinkenden LEDs.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;&quot;&gt;CHALLENGE ACCEPTED!&lt;&#x2F;h1&gt;
+&lt;p&gt;Diesmal wurden unsere Spezialexperten für alte Hardware schwer gefordert. Es
+gab keine Handbücher und auch das vorhandene Typenschild verriet uns nur, dass
+die Hardware das letzte Mal 1985 gewartet wurde. Es musste also alles selbst
+herausgefunden werden. Gesagt, getan. Das Gehäuse wurde aufgeschraubt, der
+Controller teilweise ausgebaut mit einem Logic Analyser verbunden und die
+zuletzt einprogrammierte Animation durchlaufen gelassen. Der Logic Analyser
+hat dabei die Signale aufgezeichnet, die an den Controller geschickt wurden.
+Dadurch war es möglich, die einzelnen Kommandos nachträglich genau auszuwerten.
+Leider ist es natürlich nicht so, dass einem die Geräte sagen, was warum wann
+gerade getan wird. Also starrt man manchmal mehrere Stunden auf solche Kurven
+wie in dem Bild.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;lauflicht&#x2F;img2.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Man überlegt, warum gerade an dieser Stelle jetzt gerade Strom an oder aus
+gestellt wird, verrennt sich von einer in die nächste Theorie, weiß irgendwann
+nicht mehr, warum man die letzte wieder verworfen hat. Schließlich kommt man
+auf die selbe Idee zwei oder drei mal und ist am Ende soweit für den Tag
+Schluss zu machen, um es am nächsten Tag erneut zu probieren.&lt;&#x2F;p&gt;
+&lt;p&gt;Und an dieser Stelle hat sich das Konzept Hackerspace voll ausgezahlt; es
+passierte, was passieren soll: Jemand, der bisher völlig unbeteiligt war, lief
+vorbei warf einen kurzen Blick auf den Bildschirm sagt etwas wie “Sieht für
+mich aus wie eine Binäradressierung”. “HEUREKA!” genau das war’s. Jede LED der
+ersten Spalte wird mit einer Zahl zwischen 0 und 13 in Binärdarstellung
+angesprochen, dann wird sie entweder auf an oder aus gestellt und, wenn man
+damit fertig ist, werden alle Spalten eins weiter geschoben. Danach wird die
+neue letzte Spalte bearbeitet. Dies geschieht so schnell, dass es am Ende wie
+eine flüssige Animation aussieht. Mittlerweile können wir also unsere eigenen
+Animationen abspielen. Und wie üblich, wenn wir sich bewegende LEDs haben,
+wollen wir auch damit spielen: Der nächste Schritt ist also die Implementierung
+eines Jump-and-Runs à la Super Mario auf 192×14 LEDs. Mal gucken wie schnell
+das fertig ist. Und wenn wir spielen können, freuen wir uns natürlich über neue
+Gegner, die versuchen, unsere High-Scores zu knacken.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=Ilu1I9LmIsU&quot;&gt;Video&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Arduino Comic</title>
+        <published>2012-05-22T18:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            thorben
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/arduino-comic/"/>
+        <id>https://ktt-ol.github.io/blog/2012/arduino-comic/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/arduino-comic/">&lt;p&gt;Ein echter Dauerbrenner bei uns ist das kreative Arbeiten mit Mikrocontrollerschaltungen. Auch gerade auf neue Gäste im
+Beta-Space übt dieser Bereich der Elektronik große Anziehungskraft aus. Um hier den Einstieg möglichst leicht zu machen
+und unsere Aufbauten möglichst untereinander kompatibel zu halten, hat sich die quelloffene
+Mikrocontrollerprogrammierung mit Arduino quasi als „Standard“ etabliert. Auch mit überschaubaren Hardware- und
+Programmierkenntnissen ist es damit möglich, interaktive Objekte zu steuern oder reaktive, anfassbare Dinge zu bauen.
+Entwickelt wurde die Plattform maßgeblich von Massimo Banzi, einem italienischen Professor. Ihm waren die hohen Kosten
+und die hohen technischen Hürden ein Dorn im Auge, die man für die Programmierung von Mikrocontrollern in der Zeit vor
+der Einführung des Arduinos nehmen musste.&lt;&#x2F;p&gt;
+&lt;p&gt;Um die ersten Schritte im Umgang mit der Arduino-Plattform zu erlernen, haben wir sehr gute Erfahrung mit dem
+großartigen Comic von Jody Culkin gemacht. Hier wird in quietschbunten Comicgrafiken das Grundlagenwissen rund um den
+kleinen blauen Tausendsassa und seine Software vermittelt.&lt;&#x2F;p&gt;
+&lt;p&gt;Leider gab es den Comic bislang nur in englischer Sprache. Da wir nun aber auch einige Mitglieder haben, die gerade beim
+Erlernen neuer Dinge lieber auf die eigene Sprache zurückgreifen, hat sich unser Mitglied Thorben Weber der Übersetzung
+des Comics ins Deutsche angenommen. Da das Original unter einer Creative-Commons-Lizenz steht, war dieses Unterfangen
+auch unproblematisch möglich, sogar erwünscht.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;arduino-comic&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Die deutsche Übersetzung des Comics kann sich nun jeder
+unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;arduinocomic.kreativitaet-trifft-technik.de&#x2F;&quot;&gt;http:&#x2F;&#x2F;arduinocomic.kreativitaet-trifft-technik.de&#x2F;&lt;&#x2F;a&gt;
+ansehen und herunterladen. Überzeugen Sie sich selbst wie einfach es ist in die Mikrocontrollerprogrammierung mit
+Arduino einzusteigen.&lt;&#x2F;p&gt;
+&lt;p&gt;Wer Lust hat, selbst einfach mal mit einem Arduino zu experimentieren, kann uns gerne im Space besuchen. Wir halten
+immer einige unserer selbstgemachten Arduino-Einsteigersets mit Arduino und weiteren Bauteilen zum Ausprobieren vor.
+Natürlich helfen wir Einsteigern immer gerne, die ersten Schritte in die Welt der Mikrocontroller zu gehen.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Terminals</title>
+        <published>2012-05-17T22:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            olt
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/terminals/"/>
+        <id>https://ktt-ol.github.io/blog/2012/terminals/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/terminals/">&lt;p&gt;Wenn man vier mal in der Woche 15-25 kreative und technisch begabte Leute auf
+einem Haufen hat, denen man dann auch noch ein wenig Geld oder Hardware in die
+Hand drückt und sagt, “macht mal”, kann eigentlich nur Großes daraus entstehen.&lt;&#x2F;p&gt;
+&lt;p&gt;Vor lauter Basteln haben wir vielleicht etwas vergessen, auch mal
+Außenstehenden mitzuteilen, was wir eigentlich so alles Tolles machen. Das soll
+sich jetzt endgültig ändern. In der nächsten Zeit wird es an dieser Stelle
+immer wieder Berichte über die Projekte geben, die bei uns im Beta-Space
+entstanden sind oder gerade im Entstehen sind. Den Anfang macht:&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;projekt-terminals&quot;&gt;Projekt: “Terminals”&lt;&#x2F;h1&gt;
+&lt;p&gt;Im Beta-Space standen schon seit kurz nach der Eröffnung drei serielle
+Terminals, die vor Jahren von unserem ersten Vorsitzenden Patrick vor der
+Verschrottung gerettet wurden. Nun gibt es ein Projekt zu diesen alten Schätzen
+aus den 70er-Jahren. Erklärtes Ziel ist es, den Geräten wieder Leben
+einzuhauchen.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;terminals&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Zunächst muss man vielleicht erklären was ein serielles Terminal ist: Bevor
+Personal Computer Einzug in Büros und Haushalte fanden, hatten viele
+Unternehmen Großrechner. Großrechner sind wie der Name schon andeutet vor allem
+groß und dabei laut, aber auch “leistungsstark” – zumindest für ihre Zeit.
+Mehrere Mitarbeiter teilten sich häufig die Rechenleistung eines dieser
+Rechner. Um gleichzeitiges Arbeiten zu ermöglichen, gab es Terminals, die über
+keine bzw. kaum eigene Rechenleistung verfügten. Die Eingaben, die ein Benutzer
+tätigte, wurden an den Großrechner gesendet. Dieser verarbeitete die Daten und
+sendete daraufhin eine Antwort an das Terminal zurück, das die Antwort auf dem
+Bildschirm anzeigte. Ein Terminal ist also im Wesentlichen eine Tastatur mit
+Monitor.&lt;&#x2F;p&gt;
+&lt;p&gt;Nachdem die Terminals nun schon über 20 Jahre alt sind, war der erste Schritt
+herauszufinden ob sie überhaupt noch funktionieren. Dank Handbüchern war es
+nicht so kompliziert mit einem angeschlossenen Computer ein “Hello World”
+auszugeben. Nach kurzer Zeit waren auch kleinere Animationen kein Problem mehr.
+So kam schnell die Idee auf, einfache Animationen über alle drei Geräten laufen
+zu lassen. Aber wer will dafür schon die ganze Zeit seinen stromhungrigen
+Laptop zur Verfügung stellen. Wir brauchten also einen “Großrechner”. In
+unserem Fall übernimmt ein kleiner Arduino diese Rolle.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;terminals&#x2F;img2.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Arduinos haben serielle Schnittstellen, mit denen die Terminals allerdings
+nicht direkt angesteuert werden konnten, da sie die falsche Spannung liefern
+(0&#x2F;5 V anstatt -12&#x2F;+12 V). Mit einem kleinen IC lies sich aber auch dieses
+Problem in den Griff bekommen, sodass jetzt alle drei Terminals von einem
+Arduino angesteuert werden können. Mit diesem Aufbau lässt sich beispielsweise
+eine Laufschrift über alle drei Monitore realisieren. Wer schon mal bei einer
+unserer Veranstaltungen war, konnte das auch schon live bestaunen.&lt;&#x2F;p&gt;
+&lt;p&gt;Aber wir wären ja keine richtigen Hacker, wenn uns eine einfache Laufschrift
+schon reichen würde. Die nächste Stufe war: “Warum können wir die Animationen
+während sie laufen nicht verändern?” Wenige Sekunden nachdem diese Frage
+gestellt wurde hieß es im Beta-Space dann weiter: “Warum können wir eigentlich
+nicht Pong auf den Dingern spielen?”&lt;&#x2F;p&gt;
+&lt;p&gt;Gesagt getan: Mittlerweile sind an den Arduino zwei Playstation Controller
+angeschlossen, Pong und Snake wurden programmiert, und wir freuen uns über
+entspannte Spieleabende in originalgetreuer grün-schwarzer- und oder
+bernsteinfarbender Monochromoptik.&lt;&#x2F;p&gt;
+&lt;p&gt;Wer auch mal spielen möchte, der kommt einfach mal im Beta-Space vorbei und
+fordert einen von uns heraus.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Spaceschalter</title>
+        <published>2012-05-07T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            Thorben
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/spaceschalter/"/>
+        <id>https://ktt-ol.github.io/blog/2012/spaceschalter/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/spaceschalter/">&lt;p&gt;Ob unsere Räume gerade geöffnet sind kann schon seit März 2012 auf unserer
+Webseite neben unseren üblichen Öffnungszeiten live eingesehen werden.&lt;&#x2F;p&gt;
+&lt;p&gt;Wer es genauer wissen will sieht unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;status.ktt-ol.de&quot;&gt;status.ktt-ol.de&lt;&#x2F;a&gt; sogar, wie lange der
+Space schon offen ist, wieviele Leute aktuell über unseren Freifunk-Knoten im
+Internet surfen und welches Wetter wir drinnen und draußen haben. Wer dann auf
+der Statusseite verbleibt, der wird sogar zu der sich ebenfalls live
+aktualisierenden Anzahl aller Leute, hinzugezählt, die den Space-Status im Auge
+haben.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;spaceschalter&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Hauptbestandteil ist ein aus China importierter imposant großer
+Messerschalter, der in Deutschland den VDE-Fingertest nicht bestehen würde.
+Dieser hängt an einem Mikrocontroller mit aufgestecktem Internetanschluss. Es
+werden nur unschädliche 5 Volt geschaltet, die dem Mikrocontroller sagen, ob
+jemand den Schalter gerade umgelegt hat.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;spaceschalter&#x2F;img2.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Wenn dies geschieht, geht sofort eine kleine Nachricht an unseren Server im
+Internet, der die frohe Botschaft spontan weiterverteilt. Da das Umlegen des
+Schalters nicht zuletzt wegen der spontanen Reaktion im Browser ungeheuer Spaß
+macht, haben wir das Posten der Nachricht auf Twitter um einige Minuten
+verzögert.&lt;&#x2F;p&gt;
+&lt;p&gt;All diese Informationen sind über die Space-API, die von 26 internationalen
+Hackerspaces genutzt und weiterentwickelt wird, global verfügbar.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;spaceschalter&#x2F;img3.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Und natürlich gilt: “There’s an App for that” (zumindest
+für &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=de.ring0.hackspace&quot;&gt;Android&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Styroschneider</title>
+        <published>2012-02-12T12:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            0xFF
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            SebSetz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/styroschneider/"/>
+        <id>https://ktt-ol.github.io/blog/2012/styroschneider/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/styroschneider/">&lt;p&gt;Als erstes Projekt, an dem wir im Space arbeiten, soll heute der Styroschneider
+vorgestellt werden.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;die-motivation&quot;&gt;Die Motivation&lt;&#x2F;h1&gt;
+&lt;p&gt;Die Idee einen Stryoschneider zu entwickeln hat sich aus einem anderen Projekt
+ergeben, dem Return-to-Launch-Wetterballon. Um für den Wetterballon ein
+Gehäuse, Steuerruder und ähnliches zu bauen wurde ein leichter,
+druckänderungsunempfindlicher und falls möglich auch kostengünstiger Werkstoff
+benötigt. Nach einiger Überlegung und der Entdeckung dieses Projekts fiel die
+Wahl auf Styropor und den Nachbau des CNC-Hotwires.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;die-idee&quot;&gt;Die Idee&lt;&#x2F;h1&gt;
+&lt;p&gt;Die Idee hinter dem Styroschneider ist relativ simpel. Man verwendet durch
+Schrittmotoren gesteuerte Aufhängungen, auf zwei Seiten eines Styropor-Blocks,
+die einen heißen Draht führen, der wiederum das Styropor schneidet. Die
+Ansteuerung geschieht dabei wie bei einer CNC-Fräse über G-Code Anweisungen.&lt;&#x2F;p&gt;
+&lt;p&gt;Das ist zwar nicht unser Styroschneider, unser soll aber am Ende auch so
+funktionieren. Um leichter transportabel zu sein, wir werden mit dem Beta-Space
+ja noch mindestens einmal umziehen müssen, soll unserer Variante allerdings
+unter einen Tisch montiert werden.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;stand-vom-12-02-2012&quot;&gt;Stand vom 12.02.2012&lt;&#x2F;h1&gt;
+&lt;p&gt;Mittlerweile sind die ersten Arbeiten an unserem Styroschneider abgeschlossen.
+Die Grundplatte auf der die Elektronik und die benötigten Motoren angebracht
+sind ist zugeschnitten und mit bisher zwei Schrittmotoren und einer Aufhängung
+für die Steuerung des Drahts versehen worden. Gestern konnte dann auch die
+Kalibirierung der beiden Motoren abgeschlossen werden und damit wir auch ein
+bisschen was zu präsentieren haben wurde der Styroschneider kurzerhand zum
+Behelfsplotter umgewandelt. Dank G-Code Steuerung und angeschlossener
+Verarbeitung von SVG-Dateien konnten dann gestern Pacmans, Nikolaushäuser und
+KtT-Logos geplottet werden. Und so sieht das ganze aus.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;styroschneider&#x2F;0000.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=r4XIohDZIYs&quot;&gt;Video 1&lt;&#x2F;a&gt;
+&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=vNpmt4UVJ5w&quot;&gt;Video 2&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Viel Spass mit den Videos und hoffentlich bis bald im Beta-Space.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Forumslader</title>
+        <published>2011-12-01T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2011/forumslader/"/>
+        <id>https://ktt-ol.github.io/blog/2011/forumslader/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2011/forumslader/">&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2011&#x2F;inventarsystem&#x2F;forumslader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.forumslader.de&#x2F;&quot;&gt;Forumslader&lt;&#x2F;a&gt; ist ein Ladegerät fürs Fahrrad, dessen Nachbau für private Nutzung
+erlaubt ist. Er ist dazu gedacht, Mobiltelefone oder Navigationsgeräte während des Radfahrens zu betreiben bzw.
+aufzuladen.&lt;&#x2F;p&gt;
+&lt;p&gt;Wir haben uns für den Nachbau die 12V Variante mit USB ausgesucht, und ein paar Anpassungen vorgenommen. So haben wir
+z.B. den 5V-Teil der Schaltung, die für die Spannungsregulierung für USB zuständig ist, durch einen fertigen Chip
+ersetzt.&lt;br &#x2F;&gt;
+Gehäuse und Formfaktoren unterscheiden sich bei unseren Geräten danach, wie derjenige sein Gerät am Fahrrad montieren
+oder benutzen möchte. Auf dem Bild z.B. wurde der USB Ladeanschluss in den Lenker integriert. Einige Geräte wurden auch
+um eine 12V Anschlussmöglichkeit oder einen schönen Rundstecker für die Stromabnahme des Nabendynamos erweitert.&lt;&#x2F;p&gt;
+&lt;p&gt;Eine komplette Übersicht von Schaltplänen, Prototypen und vorgenommenen Anpassungen, gibt
+es &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;wiki.kreativitaet-trifft-technik.de&#x2F;public&#x2F;Projekte&#x2F;Fahrradelektronik&#x2F;Forumslader&quot;&gt;im Wiki&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Inventarsystem</title>
+        <published>2011-12-01T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2011/inventarsystem/"/>
+        <id>https://ktt-ol.github.io/blog/2011/inventarsystem/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2011/inventarsystem/">&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2011&#x2F;inventarsystem&#x2F;inventarsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;TODO :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Shopsystem</title>
+        <published>2011-12-01T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            sre
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            lhw
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2011/shopsystem/"/>
+        <id>https://ktt-ol.github.io/blog/2011/shopsystem/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2011/shopsystem/">&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2011&#x2F;shopsystem&#x2F;shopsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Mit steigender Mitgliederzahl und mehr als 5 verschiedenen Produkten im “Kiosk“des Hackspaces wurde das führen und
+auswerten von Strichlisten immer aufwändiger. Aus diesem Grund wurde von uns Software entwickelt, welche die Daten von
+Beginn an digital vorhält.&lt;&#x2F;p&gt;
+&lt;p&gt;Das Shopsystem läuft auf einem Raspberry Pi, an welchen ein serieller Barcode Scanner angeschlossen ist. Des Weiteren
+ist an den Raspberry Pi ein Monitor angeschlossen, welcher die letzten Vorgänge protokolliert. Jedes Mitglied kann sich
+mit einem (ungeschützten und leicht fälschbaren) Barcode einloggen, dann beliebige Produkte kaufen, indem er deren EAN
+Barcode scannt und sich schließlich mittels eines logout barcodes ausloggen. Um zu verhindern, dass Personen den Barcode
+anderer Mitglieder scannen bekommen diese gegen 8 Uhr eine E-Mail, in der die eingekauften Produkte des Vortages
+aufgelistet sind. Am Anfang des folgenden Monats kommt dann, ebenfalls per E-Mail, die Rechnung für den gesamten Monat.
+Diese wird, zusammen mit einer einfach auswertbaren CSV-Datei auch an den Schatzmeister geschickt, welcher dann das Geld
+von den Mitglieder Konten einzieht.&lt;&#x2F;p&gt;
+&lt;p&gt;Das Eintragen neuer Produkte geschieht über ein Web-Interface. Über dieses kann auch die Mitgliederdatenbank des Systems
+aktualisiert werden (import einer CSV-Datei) oder der aktuelle Warenbestand eingesehen werden.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

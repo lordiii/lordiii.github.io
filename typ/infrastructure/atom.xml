@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+    <title>Kreativität trifft Technik e.V. - Infrastructure</title>
+    <subtitle>Website des Kreativität trifft Technik e.V.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/typ/infrastructure/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-24T23:42:00+00:00</updated>
+    <id>https://ktt-ol.github.io/typ/infrastructure/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Spaceschalter</title>
+        <published>2012-05-07T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            Thorben
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/spaceschalter/"/>
+        <id>https://ktt-ol.github.io/blog/2012/spaceschalter/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/spaceschalter/">&lt;p&gt;Ob unsere Räume gerade geöffnet sind kann schon seit März 2012 auf unserer
+Webseite neben unseren üblichen Öffnungszeiten live eingesehen werden.&lt;&#x2F;p&gt;
+&lt;p&gt;Wer es genauer wissen will sieht unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;status.ktt-ol.de&quot;&gt;status.ktt-ol.de&lt;&#x2F;a&gt; sogar, wie lange der
+Space schon offen ist, wieviele Leute aktuell über unseren Freifunk-Knoten im
+Internet surfen und welches Wetter wir drinnen und draußen haben. Wer dann auf
+der Statusseite verbleibt, der wird sogar zu der sich ebenfalls live
+aktualisierenden Anzahl aller Leute, hinzugezählt, die den Space-Status im Auge
+haben.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;spaceschalter&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Hauptbestandteil ist ein aus China importierter imposant großer
+Messerschalter, der in Deutschland den VDE-Fingertest nicht bestehen würde.
+Dieser hängt an einem Mikrocontroller mit aufgestecktem Internetanschluss. Es
+werden nur unschädliche 5 Volt geschaltet, die dem Mikrocontroller sagen, ob
+jemand den Schalter gerade umgelegt hat.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;spaceschalter&#x2F;img2.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Wenn dies geschieht, geht sofort eine kleine Nachricht an unseren Server im
+Internet, der die frohe Botschaft spontan weiterverteilt. Da das Umlegen des
+Schalters nicht zuletzt wegen der spontanen Reaktion im Browser ungeheuer Spaß
+macht, haben wir das Posten der Nachricht auf Twitter um einige Minuten
+verzögert.&lt;&#x2F;p&gt;
+&lt;p&gt;All diese Informationen sind über die Space-API, die von 26 internationalen
+Hackerspaces genutzt und weiterentwickelt wird, global verfügbar.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;spaceschalter&#x2F;img3.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Und natürlich gilt: “There’s an App for that” (zumindest
+für &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=de.ring0.hackspace&quot;&gt;Android&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

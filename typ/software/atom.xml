@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+    <title>Kreativität trifft Technik e.V. - Software</title>
+    <subtitle>Website des Kreativität trifft Technik e.V.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/typ/software/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-24T23:42:00+00:00</updated>
+    <id>https://ktt-ol.github.io/typ/software/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Arduino Comic</title>
+        <published>2012-05-22T18:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            thorben
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/arduino-comic/"/>
+        <id>https://ktt-ol.github.io/blog/2012/arduino-comic/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/arduino-comic/">&lt;p&gt;Ein echter Dauerbrenner bei uns ist das kreative Arbeiten mit Mikrocontrollerschaltungen. Auch gerade auf neue Gäste im
+Beta-Space übt dieser Bereich der Elektronik große Anziehungskraft aus. Um hier den Einstieg möglichst leicht zu machen
+und unsere Aufbauten möglichst untereinander kompatibel zu halten, hat sich die quelloffene
+Mikrocontrollerprogrammierung mit Arduino quasi als „Standard“ etabliert. Auch mit überschaubaren Hardware- und
+Programmierkenntnissen ist es damit möglich, interaktive Objekte zu steuern oder reaktive, anfassbare Dinge zu bauen.
+Entwickelt wurde die Plattform maßgeblich von Massimo Banzi, einem italienischen Professor. Ihm waren die hohen Kosten
+und die hohen technischen Hürden ein Dorn im Auge, die man für die Programmierung von Mikrocontrollern in der Zeit vor
+der Einführung des Arduinos nehmen musste.&lt;&#x2F;p&gt;
+&lt;p&gt;Um die ersten Schritte im Umgang mit der Arduino-Plattform zu erlernen, haben wir sehr gute Erfahrung mit dem
+großartigen Comic von Jody Culkin gemacht. Hier wird in quietschbunten Comicgrafiken das Grundlagenwissen rund um den
+kleinen blauen Tausendsassa und seine Software vermittelt.&lt;&#x2F;p&gt;
+&lt;p&gt;Leider gab es den Comic bislang nur in englischer Sprache. Da wir nun aber auch einige Mitglieder haben, die gerade beim
+Erlernen neuer Dinge lieber auf die eigene Sprache zurückgreifen, hat sich unser Mitglied Thorben Weber der Übersetzung
+des Comics ins Deutsche angenommen. Da das Original unter einer Creative-Commons-Lizenz steht, war dieses Unterfangen
+auch unproblematisch möglich, sogar erwünscht.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2012&#x2F;arduino-comic&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Die deutsche Übersetzung des Comics kann sich nun jeder
+unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;arduinocomic.kreativitaet-trifft-technik.de&#x2F;&quot;&gt;http:&#x2F;&#x2F;arduinocomic.kreativitaet-trifft-technik.de&#x2F;&lt;&#x2F;a&gt;
+ansehen und herunterladen. Überzeugen Sie sich selbst wie einfach es ist in die Mikrocontrollerprogrammierung mit
+Arduino einzusteigen.&lt;&#x2F;p&gt;
+&lt;p&gt;Wer Lust hat, selbst einfach mal mit einem Arduino zu experimentieren, kann uns gerne im Space besuchen. Wir halten
+immer einige unserer selbstgemachten Arduino-Einsteigersets mit Arduino und weiteren Bauteilen zum Ausprobieren vor.
+Natürlich helfen wir Einsteigern immer gerne, die ersten Schritte in die Welt der Mikrocontroller zu gehen.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Inventarsystem</title>
+        <published>2011-12-01T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2011/inventarsystem/"/>
+        <id>https://ktt-ol.github.io/blog/2011/inventarsystem/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2011/inventarsystem/">&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2011&#x2F;inventarsystem&#x2F;inventarsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;TODO :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>Shopsystem</title>
+        <published>2011-12-01T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            sre
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            lhw
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2011/shopsystem/"/>
+        <id>https://ktt-ol.github.io/blog/2011/shopsystem/</id>
+        
+        <content type="html" xml:base="https://ktt-ol.github.io/blog/2011/shopsystem/">&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2011&#x2F;shopsystem&#x2F;shopsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Mit steigender Mitgliederzahl und mehr als 5 verschiedenen Produkten im “Kiosk“des Hackspaces wurde das führen und
+auswerten von Strichlisten immer aufwändiger. Aus diesem Grund wurde von uns Software entwickelt, welche die Daten von
+Beginn an digital vorhält.&lt;&#x2F;p&gt;
+&lt;p&gt;Das Shopsystem läuft auf einem Raspberry Pi, an welchen ein serieller Barcode Scanner angeschlossen ist. Des Weiteren
+ist an den Raspberry Pi ein Monitor angeschlossen, welcher die letzten Vorgänge protokolliert. Jedes Mitglied kann sich
+mit einem (ungeschützten und leicht fälschbaren) Barcode einloggen, dann beliebige Produkte kaufen, indem er deren EAN
+Barcode scannt und sich schließlich mittels eines logout barcodes ausloggen. Um zu verhindern, dass Personen den Barcode
+anderer Mitglieder scannen bekommen diese gegen 8 Uhr eine E-Mail, in der die eingekauften Produkte des Vortages
+aufgelistet sind. Am Anfang des folgenden Monats kommt dann, ebenfalls per E-Mail, die Rechnung für den gesamten Monat.
+Diese wird, zusammen mit einer einfach auswertbaren CSV-Datei auch an den Schatzmeister geschickt, welcher dann das Geld
+von den Mitglieder Konten einzieht.&lt;&#x2F;p&gt;
+&lt;p&gt;Das Eintragen neuer Produkte geschieht über ein Web-Interface. Über dieses kann auch die Mitgliederdatenbank des Systems
+aktualisiert werden (import einer CSV-Datei) oder der aktuelle Warenbestand eingesehen werden.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
